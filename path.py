@@ -11,5 +11,5 @@ def home():
             Div("Suas opções aqui...")
         )
     )
-
-# Roda em: https://seu-site.render.com
+if __name__ == "__main__":
+    serve()
